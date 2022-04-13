@@ -1,2 +1,2 @@
-# Isidore.lua
+# Isidore
 Libraires Management
